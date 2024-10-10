@@ -20,24 +20,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitalii&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 10px; border: 2px solid #4a4a8c; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
-  <img src="https://komarev.com/ghpvc/?username=vitalii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-right: 15px;" /> 
-  <a href="https://www.linkedin.com/in/vitalii-stark/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;"/>
-  </a>
-  <a href="mailto:vitalii.shtark.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 15px;"/>
-  </a>
-</p>
-
 ---
-<div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c;">
-  <h2 align="center" style="color: #fff;">📫 How to reach me:</h2>
-  <p align="center" style="color: #e0e0e0; font-family: 'Arial', sans-serif;">
-    -Email: <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br>
-    -LinkedIn: <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
+<div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c; text-align: center;">
+  <h2 style="color: #fff;">📫 How to reach me:</h2>
+  <p style="color: #e0e0e0; font-family: 'Arial', sans-serif;">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail Icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"/> 
+    - Email: <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br><br> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"/> 
+    - LinkedIn: <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
   </p>
 </div>
+
+
+
+
+
 
 ---
 <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c;">
@@ -55,8 +52,4 @@
 </div>
 
 <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c;">
-  <h2 align="center" style="color: #fff;">🏆 GitHub Achievements</h2>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitalii&row=1&column=6&no-frame=true&theme=flat" alt="GitHub Trophies" /></a>
-  </p>
 </div>
