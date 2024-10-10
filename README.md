@@ -23,8 +23,8 @@
 <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c;">
   <h2 align="center" style="color: #fff;">📫 How to reach me:</h2>
   <p align="center" style="color: #e0e0e0; font-family: 'Arial', sans-serif;">
-    - **Email**: <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br>
-    - **LinkedIn**: <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
+    -Email: <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br>
+    -LinkedIn: <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
   </p>
 </div>
 
