@@ -24,10 +24,10 @@
 <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c; text-align: center;">
   <h2 style="color: #fff;">📫 How to reach me:</h2>
   <p style="color: #e0e0e0; font-family: 'Arial', sans-serif;">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail Icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"/> 
-    - Email: <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br><br> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"/> 
-    - LinkedIn: <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail Icon" style="vertical-align: middle; margin-right: 5px;margin-top: 5px; width: 20px; height: 20px;"/> 
+    <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br><br> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 5px;margin-top: 5px;width: 20px; height: 20px;"/> 
+    <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
   </p>
 </div>
 
