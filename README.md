@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/VitaliyStark" target="_blank">
+  <a href="https://github.com/Vitalii Stark" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=Working+with+React+and+Next.js;Hello,+I'm+Vitaliy!;Full+stack+Developer;+😉;&font=Consolas&color=50C878&center=true&width=800&height=50&duration=2900&pause=1000" alt="Typing SVG" />
   </a>
 </p>
@@ -38,20 +38,6 @@ Hi, I'm a highly-motivated and passionate React.js and Node.js developer, produc
 </p>
 
 ---
-<div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c;">
-  <h2 align="center" style="color: #fff;">📫 How to reach me:</h2>
-  <p align="center" style="color: #e0e0e0; font-family: 'Arial', sans-serif;">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail Icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"/> 
-    - Email: <a href="mailto:vitalii.shtark.work@gmail.com" style="color: #50C878;">vitalii.shtark.work@gmail.com</a><br><br> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"/> 
-    - LinkedIn: <a href="https://www.linkedin.com/in/vitalii-stark/" style="color: #50C878;">Vitalii Stark</a>
-  </p>
-</div>
-
-
-
-
-
 ---
 <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin: 20px; border: 2px solid #4a4a8c;">
   <h2 align="center" style="color: #fff;">🛠 Languages and Tools:</h2>
